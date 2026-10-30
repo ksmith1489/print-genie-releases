@@ -1,0 +1,9 @@
+# Release binaries are attached as reviewed GitHub Release assets, not committed.
+/assets/
+*.exe
+*.msix
+*.msixbundle
+*.pfx
+*.p12
+.env
+.env.*
