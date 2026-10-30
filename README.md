@@ -8,6 +8,16 @@ Print Genie brings your 3D printing workflow together: connect a supported print
 
 Print Genie is the experience behind **3DPrintSaver**, its Microsoft Store listing. Availability of the Store listing can vary by region and publication status.
 
+## Make your Personal Edition your own
+
+Your workshop is unique. With **Personal Edition**, you can ask Genie to create useful tools for the way you work. For example, describe a material cost estimator that calculates filament costs, waste and markup for a print. Review and test the proposed calculator, then install it in your own app. You can also create custom checklists and read-only information panels, revise them over time, and return to an earlier version.
+
+![Conceptual illustration of asking the Customize agent to create a material cost estimator](screenshots/personal-cost-estimator.png)
+
+*Conceptual illustration; not an actual application screenshot.*
+
+Made something useful? Export a supported customization as a sharing file and share it with the community or directly with another Personal owner, who can import, review and install it. Customizations currently use supported data-only tools; creating arbitrary executable plugins or new printer integrations is not available. Generating a customization requires a compatible AI connection; provider and prepaid AI charges are separate, and compatible local models are also supported.
+
 ## Imagine it. Make it.
 
 Describe the part you have in mind, explore a design in the 3D workspace, and work toward a model you can print. Connected AI can help with modeling and revisions using available tools such as FreeCAD and Blender, which are installed separately.
@@ -24,9 +34,9 @@ When a print fails, use the original G-code and your measurement to work through
 
 *Conceptual illustration; not an actual application screenshot. Recovery depends on your printer, the original file, and the circumstances of the failure. Bambu printers do not currently support the canonical recovery workflow.*
 
-## Make your workflow your own
+## From slicer settings to print
 
-Tell Genie what you want to print and discuss the slicer settings that suit your material and printer. With OrcaSlicer installed and a compatible connected printer, the assistant can inspect profiles, recommend settings, apply approved changes in a separate preset, slice the model, and start a print when requested. Personal Edition also unlocks **Customize**, where you can create and adapt approved panels, checklists, and numeric calculators for the way you work.
+Tell Genie what you want to print and discuss the slicer settings that suit your material and printer. With OrcaSlicer installed and a compatible connected printer, the assistant can inspect profiles, recommend settings, apply approved changes in a separate preset, slice the model, and start a print when requested.
 
 ![Conceptual illustration of customization, slicing, and starting a print](screenshots/customization-print.png)
 
